@@ -126,3 +126,20 @@ user-invocable: false # /メニューに非表示にする場合
 ├── rules/                       # ルール分割ファイル
 └── settings.local.json          # 個人設定（git管理外）
 ```
+
+## メモ
+金融分析Agentのはやりのやつ
+https://github.com/edinetdb/dexter-jp
+
+https://github.com/virattt/dexter
+
+claude codeのベストプラクティス
+https://github.com/shanraisshan/claude-code-best-practice
+
+claude codeのskillsていき
+https://github.com/github/awesome-copilot/blob/main/agents/prompt-engineer.agent.md
+
+https://qiita.com/aktsmm/items/08eef2cdeeb0a32b69a2
+https://github.com/anthropics/skills
+
+https://skills.sh/vercel-labs/skills/find-skills
